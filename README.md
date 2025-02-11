@@ -1,12 +1,12 @@
 ## Code Challenge Android
 
-- Descripción del Challenge en el directorio /docs
+- [Descripción del Challenge](https://github.com/LeoIsasmendi/codechallenge01/blob/dev/docs/Mobile%20Challenge%20-%20v0.6%20(2).pdf)
 
-###Requerimientos:
+### Requerimientos:
 
 - Clonar el **branch dev** del repositorio
 - Generar Google Maps ApiKey ([documentacion](https://developers.google.com/maps/documentation/embed/get-api-key?hl=es-419))
-    - Reemplazar API_KEY_VALUE en AndroidManifest.xml con la key generada
+    - Reemplazar API_KEY_VALUE en [AndroidManifest.xml](https://github.com/LeoIsasmendi/codechallenge01/blob/dev/app/src/main/AndroidManifest.xml) con la key generada
 
 ```xml
 <?xml version="1.0" encoding="utf-8"?>
